@@ -21,7 +21,7 @@ Este repositório fornece um guia **reprodutível e validado** para:
 
 ## Sobre o Projeto Harbour
 
-Harbour é a implementação de software livre e de código aberto de uma linguagem de programação multiplataforma, multithread, orientada a objetos e com suporte a scripts, retrocompatível com linguagens xBase. Harbour consiste em um compilador e bibliotecas de tempo de execução com múltiplos backends de interface do usuário, banco de dados e entrada/saída, seu próprio sistema de compilação e uma coleção de bibliotecas e bindings para APIs populares. Com Harbour, você pode criar aplicativos que rodam em GNU/Linux, Windows, macOS, iOS, Android, *BSD, *nix e muito mais.
+Harbour é a implementação de software livre e de código aberto de uma linguagem de programação multiplataforma, multithread, orientada a objetos e com suporte a scripts, retrocompatível com linguagens xBase, incluindo o CA Clipper (versão 5.2 ou superior). Harbour consiste em um compilador e bibliotecas de tempo de execução com múltiplos backends de interface do usuário, banco de dados e entrada/saída, seu próprio sistema de compilação e uma coleção de bibliotecas e bindings para APIs populares. Com Harbour, você pode criar aplicativos que rodam em GNU/Linux, Windows, macOS, iOS, Android, *BSD, *nix e muito mais.
 
 Visite o site oficial do Harbour: https://harbour.github.io/
 
