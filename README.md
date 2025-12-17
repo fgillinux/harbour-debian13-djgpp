@@ -37,6 +37,19 @@ O DOSBox é um emulador que recria um ambiente compatível com MS-DOS (completo 
 
 Visite o site oficial do DOSBox: https://www.dosbox.com/
 
+## Sobre o Projeto FreeDOS
+
+FreeDOS é um sistema operacional livre e de código aberto que é uma reimpressão do DOS original de Microsoft. Ele é projetado para ser compatível com o DOS original de Microsoft, mas com a vantagem de ser livre e de código aberto.
+
+Visite o site oficial do FreeDOS: https://www.freedos.org/
+
+## Sobre o Projeto CWSDPMI
+
+CWSDPMI é um host DPMI de 32 bits escrito por Charles W. Sandmann entre 1996 e 2010, atualmente na versão r7. É baseado, em linhas gerais, no código GO32.EXE anterior usado no DJGPP v1. Ele pode fornecer serviços DPMI 0.90+ de 32 bits para programas compilados com as versões mais recentes dos compiladores DJGPP, etc.
+
+Visite o site oficial do CWSDPMI: https://sandmann.dotster.com/cwsdpmi/
+Wikipedia: https://en.wikipedia.org/wiki/CWSDPMI
+
 ## Licença
 
 MIT (ver `LICENSE`).
