@@ -59,7 +59,7 @@ CWSDPMI na Wikipedia: https://en.wikipedia.org/wiki/CWSDPMI
 ## Manuais e Guias de referência da linguagem xBase, Clipper e Harbour
 
 - Projeto Harbour: https://harbour.github.io/
-- CA Clipper 5.3: https://www.itlnet.net/programming/program/reference/c53g01c/menu.html
+- Guia de referência do CA Clipper 5.3: https://www.itlnet.net/programming/program/reference/c53g01c/menu.html
 - Padrão xBase: https://pt.wikipedia.org/wiki/XBase
 
 ## Licença
