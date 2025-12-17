@@ -47,8 +47,8 @@ Visite o site oficial do FreeDOS: https://www.freedos.org/
 
 CWSDPMI é um host DPMI de 32 bits escrito por Charles W. Sandmann entre 1996 e 2010, atualmente na versão r7. É baseado, em linhas gerais, no código GO32.EXE anterior usado no DJGPP v1. Ele pode fornecer serviços DPMI 0.90+ de 32 bits para programas compilados com as versões mais recentes dos compiladores DJGPP, etc.
 
-Visite o site oficial do CWSDPMI: https://sandmann.dotster.com/cwsdpmi/
-Wikipedia: https://en.wikipedia.org/wiki/CWSDPMI
+Visite o site oficial do CWSDPMI: https://sandmann.dotster.com/cwsdpmi/ ou
+CWSDPMI na Wikipedia: https://en.wikipedia.org/wiki/CWSDPMI
 
 ## Licença
 
