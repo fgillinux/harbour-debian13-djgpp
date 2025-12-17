@@ -45,7 +45,7 @@ Visite o site oficial do FreeDOS: https://www.freedos.org/
 
 ## O que é DPMI?
 
-DPMI (Desktop Protected Mode Interface) é uma interface de programação que permite que os programas sejam executados em modo protegido, que é um modo de operação do processador x86 que fornece proteção de memória e segurança para os programas.
+DPMI (DOS Protected Mode Interface) é uma interface de programação que permite que os programas sejam executados em modo protegido, que é um modo de operação do processador x86 que fornece proteção de memória e segurança para os programas.
 
 Visite a Wikipedia para mais informações: https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface
 
