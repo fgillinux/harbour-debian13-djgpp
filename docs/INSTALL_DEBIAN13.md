@@ -1,6 +1,6 @@
 # Instalação do Harbour no Debian 13 (Linux + MS-DOS via DJGPP)
 
-Este documento descreve **do zero** como montar um ambiente no Debian 13 capaz de:
+Este documento descreve passo a passo como montar um ambiente no Debian 13 capaz de:
 
 - Compilar programas Harbour nativamente para **Linux**
 - Gerar executáveis **MS-DOS (`.EXE`)** usando **DJGPP (cross-compiler)**
