@@ -43,6 +43,12 @@ FreeDOS é um sistema operacional livre e de código aberto que é uma reimpress
 
 Visite o site oficial do FreeDOS: https://www.freedos.org/
 
+## O que é DPMI?
+
+DPMI (Desktop Protected Mode Interface) é uma interface de programação que permite que os programas sejam executados em modo protegido, que é um modo de operação do processador x86 que fornece proteção de memória e segurança para os programas.
+
+Visite a Wikipedia para mais informações: https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface
+
 ## Sobre o Projeto CWSDPMI
 
 CWSDPMI é um host DPMI de 32 bits escrito por Charles W. Sandmann entre 1996 e 2010, atualmente na versão r7. É baseado, em linhas gerais, no código GO32.EXE anterior usado no DJGPP v1. Ele pode fornecer serviços DPMI 0.90+ de 32 bits para programas compilados com as versões mais recentes dos compiladores DJGPP, etc.
