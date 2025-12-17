@@ -56,6 +56,12 @@ CWSDPMI é um host DPMI de 32 bits escrito por Charles W. Sandmann entre 1996 e 
 Visite o site oficial do CWSDPMI: https://sandmann.dotster.com/cwsdpmi/ ou
 CWSDPMI na Wikipedia: https://en.wikipedia.org/wiki/CWSDPMI
 
+## Guias de referência da linguagem xBase, Clipper e Harbour
+
+- Harbour: https://harbour.github.io/
+- CA Clipper 5.3: https://www.itlnet.net/programming/program/reference/c53g01c/menu.html
+- Padrão xBase: https://pt.wikipedia.org/wiki/XBase
+
 ## Licença
 
 MIT (ver `LICENSE`).
